@@ -2,8 +2,6 @@
 
 AttendanceApp is a modern employee attendance system that combines **GPS Geofencing**, **Work From Home (WFH) management**, and **anomaly detection** to improve attendance accuracy and maintain data integrity.
 
-![App Icon](assets/icon.png)
-
 ---
 
 ## Overview
